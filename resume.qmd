@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ethan's Resume
 ---
 
 # Ethan Saline
