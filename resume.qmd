@@ -2,88 +2,95 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Ethan Saline
+Data Scientist • Machine Learning Specialist • BYU–Idaho
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:e.s.w.saline@gmail.com">e.s.w.saline@gmail.com</a>
+| <a href="https://linkedin.com/in/ethan-saline">linkedin.com/in/ethan-saline</a>
+| (682) 258-1024
 </div>
 
-
 ## Currently
-
-Standing on the shoulders of giants
+Data Science student applying machine learning, statistical modeling, and programming to real-world research and analytics problems.
 
 ### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Machine learning, predictive modeling, statistical analysis, data wrangling, data visualization, Python/R/SQL, and applied analytics.
 
 ### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Time series forecasting, supervised learning, model interpretability, data engineering for ML systems, and educational data analytics.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`April 2023 – December 2026`  
+__Brigham Young University–Idaho__  
+Data Science Major • Statistics Minor  
+- Current GPA: **3.98**  
+- Relevant coursework: Machine Learning, Statistical Modeling, Time Series Analysis, Data Analysis, Data Visualization  
+- Experience with real-world projects using Python, R, and SQL
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Certificates
 
-- Sizar
+__Stanford University Online__  
+- Supervised Learning Algorithms  
+- Unsupervised Learning Algorithms  
+- Advanced Learning Models  
+- Machine Learning Specialization
 
-`1667 - death`
-__Trinity College, Cambridge__
+__Brigham Young University–Idaho__  
+- Machine Learning Certificate
 
-- Fellow
+## Experience
 
+`April 2025 – Present`  
+__Data Science Lab Manager — BYU–Idaho__  
+- Designed and implemented data collection/analysis systems to support departmental research and student projects  
+- Mentored students in machine learning, statistics, and programming (Python, R, SQL)  
+- Supported project pipelines from data acquisition to model evaluation
 
+`April 2024 – Present`  
+__Data Science Programming TA — BYU–Idaho__  
+- Assisted instruction for in-person and online Data Science Programming courses (60+ students)  
+- Guided students through Python, R, and SQL best practices, debugging, data wrangling, and visualization  
+- Held tutoring hours, graded assignments, and provided individualized performance feedback
 
-## Awards
+`August 2024 – Present`  
+__Math Tutor & Supervisor — BYU–Idaho__  
+- Tutored students in calculus, statistics, and quantitative reasoning  
+- Supervised peer tutors, ensuring consistency and high-quality academic support
 
-`2012`
-President, *Royal Society*, London, UK
+## Skills
 
-Associate, *French Academy of Science*, Paris, France
+- **Programming:** Python, R, SQL  
+- **Libraries/Tools:** Pandas, NumPy, Scikit-learn, TensorFlow, ggplot  
+- **Methods:** Machine learning, predictive modeling, time series forecasting, data visualization  
+- **Languages:** Portuguese (fluent)  
+- **Academic:** Statistics, calculus, bioinformatics foundations  
 
+## Other Experience
 
+`August 2021 – October 2021`  
+__Anderson Cleaning — Bookkeeper & Operations Assistant__  
+- Built a tracking system for client billing and service logs  
+- Organized schedules and streamlined operational workflows
 
-## Publications
+`August 2020 – August 2021`  
+__Walmart — Inventory / CAP2 Stocker__  
+- Managed overstock inventory and supported store operations with consistent overtime  
+- Demonstrated reliability, teamwork, and strong time management in a fast-paced environment
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Volunteering
 
-### Journals
+`October 2021 – October 2023`  
+__Missionary — Church of Jesus Christ of Latter-day Saints, São Paulo, Brazil__  
+- Trained and mentored teams of missionaries; developed leadership and cross-cultural communication  
+- Served as Zone Leader overseeing multiple teams and reporting performance to regional leadership  
+- Managed mission finances as Financial Secretary, ensuring accurate rent payments and account reconciliation
+"""
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+file_path = "/mnt/data/ethan_saline_resume.qmd"
+with open(file_path, "w", encoding="utf-8") as f:
+    f.write(content)
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+print(f"Created: {file_path}")
