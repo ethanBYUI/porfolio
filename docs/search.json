@@ -33,23 +33,23 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Ethan’s Resume",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Data Scientist • Machine Learning Specialist • BYU–Idaho\n\ne.s.w.saline@gmail.com | linkedin.com/in/ethan-saline | (682) 258-1024\n\n\n\nData Science student applying machine learning, statistical modeling, and programming to real-world research and analytics problems.\n\n\nMachine learning, predictive modeling, statistical analysis, data wrangling, data visualization, Python/R/SQL, and applied analytics.\n\n\n\nTime series forecasting, supervised learning, model interpretability, data engineering for ML systems, and educational data analytics.\n\n\n\n\nApril 2023 – December 2026\nBrigham Young University–Idaho\nData Science Major • Statistics Minor\n- Current GPA: 3.98\n- Relevant coursework: Machine Learning, Statistical Modeling, Time Series Analysis, Data Analysis, Data Visualization\n- Experience with real-world projects using Python, R, and SQL\n\n\n\nStanford University Online\n- Supervised Learning Algorithms\n- Unsupervised Learning Algorithms\n- Advanced Learning Models\n- Machine Learning Specialization\nBrigham Young University–Idaho\n- Machine Learning Certificate\n\n\n\nApril 2025 – Present\nData Science Lab Manager — BYU–Idaho\n- Designed and implemented data collection/analysis systems to support departmental research and student projects\n- Mentored students in machine learning, statistics, and programming (Python, R, SQL)\n- Supported project pipelines from data acquisition to model evaluation\nApril 2024 – Present\nData Science Programming TA — BYU–Idaho\n- Assisted instruction for in-person and online Data Science Programming courses (60+ students)\n- Guided students through Python, R, and SQL best practices, debugging, data wrangling, and visualization\n- Held tutoring hours, graded assignments, and provided individualized performance feedback\nAugust 2024 – Present\nMath Tutor & Supervisor — BYU–Idaho\n- Tutored students in calculus, statistics, and quantitative reasoning\n- Supervised peer tutors, ensuring consistency and high-quality academic support\n\n\n\n\nProgramming: Python, R, SQL\n\nLibraries/Tools: Pandas, NumPy, Scikit-learn, TensorFlow, ggplot\n\nMethods: Machine learning, predictive modeling, time series forecasting, data visualization\n\nLanguages: Portuguese (fluent)\n\nAcademic: Statistics, calculus, bioinformatics foundations\n\n\n\n\nAugust 2021 – October 2021\nAnderson Cleaning — Bookkeeper & Operations Assistant\n- Built a tracking system for client billing and service logs\n- Organized schedules and streamlined operational workflows\nAugust 2020 – August 2021\nWalmart — Inventory / CAP2 Stocker\n- Managed overstock inventory and supported store operations with consistent overtime\n- Demonstrated reliability, teamwork, and strong time management in a fast-paced environment\n\n\n\nOctober 2021 – October 2023\nMissionary — Church of Jesus Christ of Latter-day Saints, São Paulo, Brazil\n- Trained and mentored teams of missionaries; developed leadership and cross-cultural communication\n- Served as Zone Leader overseeing multiple teams and reporting performance to regional leadership\n- Managed mission finances as Financial Secretary, ensuring accurate rent payments and account reconciliation ““”\nfile_path = “/mnt/data/ethan_saline_resume.qmd” with open(file_path, “w”, encoding=“utf-8”) as f: f.write(content)\nprint(f”Created: {file_path}“)"
   },
   {
     "objectID": "resume.html#currently",
     "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
+    "title": "Ethan’s Resume",
     "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "text": "Data Science student applying machine learning, statistical modeling, and programming to real-world research and analytics problems.\n\n\nMachine learning, predictive modeling, statistical analysis, data wrangling, data visualization, Python/R/SQL, and applied analytics.\n\n\n\nTime series forecasting, supervised learning, model interpretability, data engineering for ML systems, and educational data analytics."
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "title": "Ethan’s Resume",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "text": "April 2023 – December 2026\nBrigham Young University–Idaho\nData Science Major • Statistics Minor\n- Current GPA: 3.98\n- Relevant coursework: Machine Learning, Statistical Modeling, Time Series Analysis, Data Analysis, Data Visualization\n- Experience with real-world projects using Python, R, and SQL"
   },
   {
     "objectID": "resume.html#awards",
@@ -363,5 +363,40 @@
       "Story Telling",
       "Project 3"
     ]
+  },
+  {
+    "objectID": "resume.html#certificates",
+    "href": "resume.html#certificates",
+    "title": "Ethan’s Resume",
+    "section": "",
+    "text": "Stanford University Online\n- Supervised Learning Algorithms\n- Unsupervised Learning Algorithms\n- Advanced Learning Models\n- Machine Learning Specialization\nBrigham Young University–Idaho\n- Machine Learning Certificate"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Ethan’s Resume",
+    "section": "",
+    "text": "April 2025 – Present\nData Science Lab Manager — BYU–Idaho\n- Designed and implemented data collection/analysis systems to support departmental research and student projects\n- Mentored students in machine learning, statistics, and programming (Python, R, SQL)\n- Supported project pipelines from data acquisition to model evaluation\nApril 2024 – Present\nData Science Programming TA — BYU–Idaho\n- Assisted instruction for in-person and online Data Science Programming courses (60+ students)\n- Guided students through Python, R, and SQL best practices, debugging, data wrangling, and visualization\n- Held tutoring hours, graded assignments, and provided individualized performance feedback\nAugust 2024 – Present\nMath Tutor & Supervisor — BYU–Idaho\n- Tutored students in calculus, statistics, and quantitative reasoning\n- Supervised peer tutors, ensuring consistency and high-quality academic support"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Ethan’s Resume",
+    "section": "",
+    "text": "Programming: Python, R, SQL\n\nLibraries/Tools: Pandas, NumPy, Scikit-learn, TensorFlow, ggplot\n\nMethods: Machine learning, predictive modeling, time series forecasting, data visualization\n\nLanguages: Portuguese (fluent)\n\nAcademic: Statistics, calculus, bioinformatics foundations"
+  },
+  {
+    "objectID": "resume.html#other-experience",
+    "href": "resume.html#other-experience",
+    "title": "Ethan’s Resume",
+    "section": "",
+    "text": "August 2021 – October 2021\nAnderson Cleaning — Bookkeeper & Operations Assistant\n- Built a tracking system for client billing and service logs\n- Organized schedules and streamlined operational workflows\nAugust 2020 – August 2021\nWalmart — Inventory / CAP2 Stocker\n- Managed overstock inventory and supported store operations with consistent overtime\n- Demonstrated reliability, teamwork, and strong time management in a fast-paced environment"
+  },
+  {
+    "objectID": "resume.html#volunteering",
+    "href": "resume.html#volunteering",
+    "title": "Ethan’s Resume",
+    "section": "",
+    "text": "October 2021 – October 2023\nMissionary — Church of Jesus Christ of Latter-day Saints, São Paulo, Brazil\n- Trained and mentored teams of missionaries; developed leadership and cross-cultural communication\n- Served as Zone Leader overseeing multiple teams and reporting performance to regional leadership\n- Managed mission finances as Financial Secretary, ensuring accurate rent payments and account reconciliation ““”\nfile_path = “/mnt/data/ethan_saline_resume.qmd” with open(file_path, “w”, encoding=“utf-8”) as f: f.write(content)\nprint(f”Created: {file_path}“)"
   }
 ]
